@@ -54,7 +54,8 @@ section {
     
     align-items: center;
     justify-content: center;
-    height: 50;
+    height: 100;
+    text-size:50;
     text-align: center;
 }
 
